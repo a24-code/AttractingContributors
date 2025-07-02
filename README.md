@@ -5,8 +5,10 @@
 - Sushiro
 - Sariya
 - Sutaba
+- 
 
 # What games have you been playing recently, or what's your favorite game?
 # List of game
 - genshin
 - DragonQuest
+  N/A
