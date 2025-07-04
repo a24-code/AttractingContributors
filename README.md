@@ -9,5 +9,7 @@
 - Playing games
 - Going Dhaka
 - Go Fukuoka
+- Sightseeing in Kanazawa
 - Games
 - Sleep
+
